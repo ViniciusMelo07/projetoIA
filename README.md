@@ -20,5 +20,4 @@ Dados reais simulados do comportamento do usuário:
 - src → código Python
 - docs → relatório
 
-## 👥 Integrantes
-- Matheus Ramalho Malicia – RA: 10417969
+  
